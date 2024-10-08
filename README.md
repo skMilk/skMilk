@@ -7,7 +7,8 @@ Hello, my name is skMilk. I am a 16yo Developer that has been learning Java sinc
 I started due to my interest in making games and servers.
 ```
 
-Skills: JAVA, LUA, PYTHON
+> Skills: JAVA, LUA, PYTHON
+
 ```
 - 📖 I’m currently learning More Java and Lua 
 - 📧 How to reach me:
