@@ -13,7 +13,7 @@ I started due to my interest in making games and servers.
 
 ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skMilk)](https://github.com/anuraghazra/github-readme-stats)
+[![skMilk's GitHub stats](https://github-readme-stats.vercel.app/api?username=skMilk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
