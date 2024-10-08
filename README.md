@@ -22,5 +22,4 @@ email: cacamalaka2588@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skMilk&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=skMilk)  
 
